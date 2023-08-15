@@ -1,5 +1,5 @@
 # UCMFH
-When CLIP meets Cross-modal Hashing Retrieval: A New Strong Baseline
+When CLIP Meets Cross-modal Hashing Retrieval: A New Strong Baseline
 
 
 ### Datasets
