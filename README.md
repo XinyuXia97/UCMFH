@@ -13,3 +13,16 @@ Taking MIR Flickr as an example, our model can be trained and verified by the fo
 ```bash
 bash test-flickr.sh
 ```
+
+### Citation
+If you use this code, please cite it:
+```
+@article{xia2023clip,
+  title={When CLIP meets cross-modal hashing retrieval: A new strong baseline},
+  author={Xia, Xinyu and Dong, Guohua and Li, Fengling and Zhu, Lei and Ying, Xiaomin},
+  journal={Information Fusion},
+  pages={101968},
+  year={2023},
+  publisher={Elsevier}
+}
+```
