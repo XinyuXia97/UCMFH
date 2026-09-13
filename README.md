@@ -1,3 +1,5 @@
+
+
 # UCMFH
 When CLIP Meets Cross-modal Hashing Retrieval: A New Strong Baseline
 
@@ -9,7 +11,7 @@ We release the three experimental datasets as follows:
 - MS COCO, [[Baidu Pan](https://pan.baidu.com/s/14nq1mYz7-75O0aDsuOhExA?pwd=537l)]
 
 ### Demo 
-Taking MIR Flickr as an example, our model can be trained and verified by the following command:
+Taking MIRFlickr as an example, our model can be trained and verified by the following command:
 ```bash
 bash test-flickr.sh
 ```
